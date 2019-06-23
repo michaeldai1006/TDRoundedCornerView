@@ -17,7 +17,7 @@
         var viewY: CGFloat { get { return self.view.frame.height / 2 - viewHeight / 2 } }
         
         // Config sample view
-        let roundedCornerView = TDRoundedCornerView(frame: CGRect(x: viewX, y: viewY, width: viewWidth, height: viewHeight))
+        let roundedCornerView = TDSwiftRoundedCornerView(frame: CGRect(x: viewX, y: viewY, width: viewWidth, height: viewHeight))
         roundedCornerView.backgroundColor = .white
         backgroundView.addSubview(roundedCornerView)
         roundedCornerView.roundedCorners = [.bottomLeft]

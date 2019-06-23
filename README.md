@@ -1,4 +1,4 @@
-# TDSwiftTemplate
+# TDSwiftRoundedCornerView
 <p align="center">
-  <img src="./README/Images/TDRoundedCornerView.png"/>
+  <img src="./README/Images/TDSwiftRoundedCornerView.png"/>
 </p>

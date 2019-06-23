@@ -1,6 +1,6 @@
   import UIKit
   
-  public class TDRoundedCornerView: UIView {
+  public class TDSwiftRoundedCornerView: UIView {
     public var cornerRedius = 12.0 {
         didSet { redrawCorners() }
     }
